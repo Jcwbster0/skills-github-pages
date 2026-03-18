@@ -1,4 +1,5 @@
 ---
+layout: home
 ---
 
 ## Follow along as I create a model to predict future NBA games
